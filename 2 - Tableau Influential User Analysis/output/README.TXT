@@ -1,0 +1,1 @@
+These influential user lists were exported from Tableau after tweaking parameters and filtering.

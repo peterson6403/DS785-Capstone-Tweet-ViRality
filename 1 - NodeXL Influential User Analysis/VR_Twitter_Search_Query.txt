@@ -1,0 +1,13 @@
+vr OR "virtual reality"
+lang:en
+-ape
+-blockchain
+-bnc
+-"bros world"
+-btc
+-crypto
+-decentral
+-nft
+-token
+-vrblocks
+-vreality
