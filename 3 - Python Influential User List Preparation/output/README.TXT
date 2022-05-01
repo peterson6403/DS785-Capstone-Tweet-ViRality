@@ -1,0 +1,1 @@
+This is a list that combines the Tableau-generated most influential user lists. It will be presented to the client via a Tableau dashboard.
